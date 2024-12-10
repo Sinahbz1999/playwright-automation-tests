@@ -1,0 +1,12 @@
+{
+    "login": {
+      "url": "https://animated-gingersnap-8cf7f2.netlify.app/",
+      "email": "admin",
+      "password": "password123"
+    },
+    "testCase1": {
+      "navigateTo": "Web Application",
+      "toDoItem": "Implement user authentication",
+      "tags": ["Feature", "High Priority"]
+    }
+  }  
